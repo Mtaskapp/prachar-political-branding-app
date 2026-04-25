@@ -1,0 +1,41 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+/ios/Pods/
+/ios/Podfile.lock
+/android/.gradle/
+/android/.idea/
+/android/build/
+/android/gradle.properties
+/android/local.properties
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+/build
+/dist
+.expo/
+.expo-shared/
+
+# Mobile
+*.apk
+*.ipa
+*.jks

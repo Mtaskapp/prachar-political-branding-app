@@ -1,0 +1,16 @@
+{
+  "name": "PracharApp",
+  "displayName": "Prachar - Political Branding",
+  "version": "0.0.1",
+  "description": "Create and share political campaign materials with templates and offline support",
+  "main": "index.js",
+  "icons": {
+    "android": "./src/assets/icons/app-icon-android.png",
+    "ios": "./src/assets/icons/app-icon-ios.png"
+  },
+  "splash": {
+    "image": "./src/assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#1a1a2e"
+  }
+}
